@@ -15,3 +15,7 @@ Displays stats for your recursive PowerDNS Server. Uses Graphite as a DataSrouce
 ### ProxmoxVE
 ![Proxmox VE Dashboard](imgs/proxmox-ve.png)
 Displays Stats about your Proxmox Host. Does currently have network-ports and storages hard-coded.
+
+### Proxmox Backup Server
+![Proxmox Backup Server Dashboard](imgs/proxmox-backup-server.png)
+Displays Stats about your Proxmox Backup Server. Includes auto-rows for all the Datastores that are found as well as all network-interfaces.
