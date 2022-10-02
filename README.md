@@ -11,3 +11,7 @@ Displays stats for your authority PowerDNS Server. Uses Graphite as a DataSource
 ### PowerDNS Recursor
 ![PowerDNS Recursor Dashboard](imgs/powerdns-recursor.png)
 Displays stats for your recursive PowerDNS Server. Uses Graphite as a DataSrouce, since that can be easily setup.
+
+### ProxmoxVE
+![Proxmox VE Dashboard](imgs/proxmox-ve.png)
+Displays Stats about your Proxmox Host. Does currently have network-ports and storages hard-coded.
